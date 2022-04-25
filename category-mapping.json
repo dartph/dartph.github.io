@@ -1,1 +1,537 @@
-{}
+{
+  "categories": [
+    {
+      "collection_handle": "main-baked-goods",
+      "label": "Baked Goods",
+      "sub_categories": [
+        {
+          "collection_handle": "bread",
+          "label": "Bread"
+        },
+        {
+          "collection_handle": "pastry",
+          "label": "Pastry"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-baby",
+      "label": "Baby",
+      "sub_categories": [
+        {
+          "collection_handle": "diapers-care",
+          "label": "Diapers & Care"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-baking-sweeteners",
+      "label": "Baking & Sweeteners",
+      "sub_categories": [
+        {
+          "collection_handle": "baking-mixes",
+          "label": "Baking Mixes"
+        },
+        {
+          "collection_handle": "dessert-ingredients",
+          "label": "Dessert Ingredients"
+        },
+        {
+          "collection_handle": "flour",
+          "label": "Flour"
+        },
+        {
+          "collection_handle": "sugar-sweeteners",
+          "label": "Sugar & Sweeteners"
+        }
+
+      ]
+    },
+    {
+      "collection_handle": "main-beer",
+      "label": "Beer",
+      "sub_categories": [
+        {
+          "collection_handle": "beer-specialties",
+          "label": "Beer Specialties"
+        },
+        {
+          "collection_handle": "light-pilsner",
+          "label": "Light & Pilsner"
+        },
+        {
+          "collection_handle": "mixed-beer-drinks",
+          "label": "Mixed Beer Drinks"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-canned-food-ready-to-eat-meals",
+      "label": "Canned Food & Ready-to-eat Meals",
+      "sub_categories": [
+        {
+          "collection_handle": "canned-fish",
+          "label": "Canned Fish"
+        },
+        {
+          "collection_handle": "canned-meat",
+          "label": "Canned Meat"
+        },
+        {
+          "collection_handle": "canned-vegetables",
+          "label": "Canned Vegetables"
+        },
+        {
+          "collection_handle": "canned-packaged-fruits",
+          "label": "Canned Packaged Fruits"
+        },
+        {
+          "collection_handle": "fruit-preserves",
+          "label": "Fruit Preserves"
+        },
+        {
+          "collection_handle": "instant-noodles",
+          "label": "Instant Noodles"
+        },
+        {
+          "collection_handle": "meat-mixes",
+          "label": "Meat Mixes"
+        },
+        {
+          "collection_handle": "ready-to-eat-meals",
+          "label": "Ready-to-eat Meals"
+        },
+        {
+          "collection_handle": "soups-stews",
+          "label": "Soups & Stews"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-cheese",
+      "label": "Cheese",
+      "sub_categories": [
+        {
+          "collection_handle": "cheese-dips-cheese-products",
+          "label": "Cheese Dips & Chesse Products"
+        },
+        {
+          "collection_handle": "cream-cheese-mozzarella",
+          "label": "Cream Cheese & Mozzarella"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-coffee-tea-cacao",
+      "label": "Coffee, Tea & Cacao",
+      "sub_categories": [
+        {
+          "collection_handle": "coffee",
+          "label": "Coffee"
+        },
+        {
+          "collection_handle": "ready-to-drink",
+          "label": "Ready-to-drink"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-cold-cuts-sausage",
+      "label": "Cold Cuts & Sausage",
+      "sub_categories": [
+        {
+          "collection_handle": "ham",
+          "label": "Ham"
+        },
+        {
+          "collection_handle": "sausages",
+          "label": "Sausages"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-cosmetics",
+      "label": "Cosmetics",
+      "sub_categories": [
+        {
+          "collection_handle": "body",
+          "label": "Body"
+        },
+        {
+          "collection_handle": "deodorant",
+          "label": "Deodorant"
+        },
+        {
+          "collection_handle": "face",
+          "label": "Face"
+        },
+        {
+          "collection_handle": "hair-care",
+          "label": "Hair Care"
+        },
+        {
+          "collection_handle": "mouth-tooth",
+          "label": "Mouth & Tooth"
+        },
+        {
+          "collection_handle": "shower-bath",
+          "label": "Shower & Bath"
+        },
+        {
+          "collection_handle": "sun-mosquito-protection",
+          "label": "Sun & Mosquito Protection"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-dairy",
+      "label": "Dairy",
+      "sub_categories": [
+        {
+          "collection_handle": "butter-margarine",
+          "label": "Butter & Margarine"
+        },
+        {
+          "collection_handle": "cream-sour-cream",
+          "label": "Cream & Sour Cream"
+        },        
+        {
+          "collection_handle": "creamer-and-milk-substitutes",
+          "label": "Creamer and Milk Substitutes"
+        },        
+        {
+          "collection_handle": "fresh-milk",
+          "label": "Fresh Milk"
+        },        
+        {
+          "collection_handle": "milk-drinks",
+          "label": "Milk Drinks"
+        },        
+        {
+          "collection_handle": "milk-formula",
+          "label": "Milk Formula"
+        },        
+        {
+          "collection_handle": "uht-milk",
+          "label": "UHT Milk"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-drugstore-hygiene",
+      "label": "Drugstore & Hygiene",
+      "sub_categories": [
+        {
+          "collection_handle": "feminine-hygiene",
+          "label": "Feminine Hygiene"
+        },
+        {
+          "collection_handle": "paper-tissues",
+          "label": "Paper & Tissues"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-frozen",
+      "label": "Frozen",
+      "sub_categories": [
+        {
+          "collection_handle": "fries-potato-products",
+          "label": "Fries & Potato Products"
+        },
+        {
+          "collection_handle": "meat",
+          "label": "Meat"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-fruits-vegetables",
+      "label": "Fruits & Vegetables",
+      "sub_categories": [
+        {
+          "collection_handle": "fruits",
+          "label": "Fruits"
+        },
+        {
+          "collection_handle": "vegetables",
+          "label": "Vegetables"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-household",
+      "label": "Household",
+      "sub_categories": [
+        {
+          "collection_handle": "cleaner",
+          "label": "Cleaner"
+        },
+        {
+          "collection_handle": "household-products",
+          "label": "Household Products"
+        },        
+        {
+          "collection_handle": "kitchen-sinks",
+          "label": "Kitchen & Sinks"
+        },        
+        {
+          "collection_handle": "laundry",
+          "label": "Laundry"
+        }
+      ]
+    },
+    {
+      "collection_handle": "ice-cream",
+      "label": "Ice Cream",
+      "sub_categories": [
+        {
+          "collection_handle": "ice-cream-desserts",
+          "label": "Ice Cream Desserts"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-non-alcoholic-beverages",
+      "label": "Non-Alcoholic Beverages",
+      "sub_categories": [
+        {
+          "collection_handle": "chocolate",
+          "label": "Chocolate"
+        },
+        {
+          "collection_handle": "iced-tea",
+          "label": "Iced Tea"
+        },        {
+          "collection_handle": "juice",
+          "label": "Juice"
+        },        {
+          "collection_handle": "soft-drinks",
+          "label": "Soft Drinks"
+        },
+        {
+          "collection_handle": "tonics-mixers",
+          "label": "Tonics & Mixers"
+        },
+        {
+          "collection_handle": "water",
+          "label": "Water"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-pasta-rice-grain",
+      "label": "Pasta, Rice & Grain",
+      "sub_categories": [
+        {
+          "collection_handle": "asian-noodles",
+          "label": "Asian Noodles"
+        },
+        {
+          "collection_handle": "pasta",
+          "label": "Pasta"
+        },        
+        {
+          "collection_handle": "pasta-sauces",
+          "label": "Pasta Sauces"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-pets",
+      "label": "Pets",
+      "sub_categories": [
+        {
+          "collection_handle": "cats",
+          "label": "Cats"
+        },
+        {
+          "collection_handle": "dogs",
+          "label": "Dogs"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-sauces-oils-condiments-seasonings",
+      "label": "Sauces, Oils, Condiments & Seasonings",
+      "sub_categories": [
+        {
+          "collection_handle": "asian-sauces",
+          "label": "Asian Sauces"
+        },
+        {
+          "collection_handle": "breading",
+          "label": "Breading"
+        },       
+        {
+          "collection_handle": "ketchup-mayo-other-condiments",
+          "label": "Ketchup, Mayo & Other Condiments"
+        },       
+        {
+          "collection_handle": "meat-fish-based-sauces-seasonings",
+          "label": "Meat/Fish Based Sauces & Seasonings"
+        },        
+        {
+          "collection_handle": "spices-seasoning",
+          "label": "Spices & Seasoning"
+        },        
+        {
+          "collection_handle": "vegetable-based-sauces-seasonings",
+          "label": "Vegetable Based Sauces & Seasonings"
+        },        
+        {
+          "collection_handle": "vinegar-oil-dressing",
+          "label": "Vinegar, Oil & Dressing"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-savory-snacks",
+      "label": "Savory Snacks",
+      "sub_categories": [
+        {
+          "collection_handle": "asian-savory-snacks",
+          "label": "Asian Savory Snacks"
+        },
+        {
+          "collection_handle": "bread-snacks",
+          "label": "Bread Snacks"
+        },
+        {
+          "collection_handle": "chips",
+          "label": "Chips"
+        },
+        {
+          "collection_handle": "chips-flips",
+          "label": "Chips & Flips"
+        },
+        {
+          "collection_handle": "crackers-pretzels",
+          "label": "Crackers & Pretzels"
+        },
+        {
+          "collection_handle": "dips",
+          "label": "Dips"
+        },
+        {
+          "collection_handle": "nuts",
+          "label": "Nuts"
+        },
+        {
+          "collection_handle": "popcorns",
+          "label": "Popcorns"
+        },
+        {
+          "collection_handle": "pork-rinds",
+          "label": "Pork Rinds"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-spreads-cereals",
+      "label": "Spreads & Cereals",
+      "sub_categories": [
+        {
+          "collection_handle": "cereals",
+          "label": "Cereals"
+        },
+        {
+          "collection_handle": "honey",
+          "label": "Honey"
+        },
+        {
+          "collection_handle": "muesli-oatmeal",
+          "label": "Muesli & Oatmeal"
+        },
+        {
+          "collection_handle": "nut-chocolate-spreads",
+          "label": "Nut & Chocolate Spreads"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-spirits-liquors",
+      "label": "Spirits & Liquors",
+      "sub_categories": [
+        {
+          "collection_handle": "gin",
+          "label": "Gin"
+        },
+        {
+          "collection_handle": "vodka",
+          "label": "Vodka"
+        },
+        {
+          "collection_handle": "brandy",
+          "label": "Brandy"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-sweet-snacks",
+      "label": "Sweet Snacks",
+      "sub_categories": [
+        {
+          "collection_handle": "asian-sweet-snacks",
+          "label": "Asian Sweet Snacks"
+        },
+        {
+          "collection_handle": "candies-lollipops-chewing-gum",
+          "label": "Candies, Lollipops, & Chewing Gum"
+        },
+        {
+          "collection_handle": "chocolate-snacks",
+          "label": "Chocolate Snacks"
+        },
+        {
+          "collection_handle": "chocolates",
+          "label": "Chocolates"
+        },
+        {
+          "collection_handle": "cookies",
+          "label": "Cookies"
+        },
+        {
+          "collection_handle": "fruit-jelly",
+          "label": "Fruit Jelly"
+        },
+        {
+          "collection_handle": "sweet-crackers",
+          "label": "Sweet Crackers"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-wine",
+      "label": "Wine",
+      "sub_categories": [
+        {
+          "collection_handle": "distilled-wine",
+          "label": "Distilled Wine"
+        },
+        {
+          "collection_handle": "red-wine",
+          "label": "Red Wine"
+        },
+        {
+          "collection_handle": "white-wine",
+          "label": "White Wine"
+        }
+      ]
+    },
+    {
+      "collection_handle": "main-yogurt-desserts",
+      "label": "Yogurt & Desserts",
+      "sub_categories": [
+        {
+          "collection_handle": "drinks",
+          "label": "Drinks"
+        },
+        {
+          "collection_handle": "yogurt",
+          "label": "Yogurt"
+        }
+      ]
+    }
+  ]
+}
